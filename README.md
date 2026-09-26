@@ -11,6 +11,7 @@ About Leetcode
 | [0046-permutations](https://github.com/MANI-KUMAR94/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0047-permutations-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MANI-KUMAR94/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/MANI-KUMAR94/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MANI-KUMAR94/DSA/tree/master/0283-move-zeroes) |
 ## Backtracking
@@ -49,4 +50,9 @@ About Leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MANI-KUMAR94/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
