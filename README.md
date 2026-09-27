@@ -12,6 +12,7 @@ About Leetcode
 | [0047-permutations-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0047-permutations-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MANI-KUMAR94/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANI-KUMAR94/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MANI-KUMAR94/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MANI-KUMAR94/DSA/tree/master/0283-move-zeroes) |
 ## Backtracking
@@ -29,6 +30,7 @@ About Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANI-KUMAR94/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MANI-KUMAR94/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -55,4 +57,8 @@ About Leetcode
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANI-KUMAR94/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
