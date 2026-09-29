@@ -6,6 +6,7 @@ About Leetcode
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MANI-KUMAR94/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0040-combination-sum-ii) |
@@ -34,6 +35,7 @@ About Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MANI-KUMAR94/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/MANI-KUMAR94/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANI-KUMAR94/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -62,6 +64,7 @@ About Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MANI-KUMAR94/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
 |  |
