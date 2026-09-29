@@ -6,6 +6,7 @@ About Leetcode
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MANI-KUMAR94/DSA/tree/master/0046-permutations) |
@@ -25,11 +26,13 @@ About Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/MANI-KUMAR94/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANI-KUMAR94/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MANI-KUMAR94/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
