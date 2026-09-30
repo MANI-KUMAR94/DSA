@@ -10,6 +10,7 @@ About Leetcode
 | [0015-3sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/MANI-KUMAR94/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/MANI-KUMAR94/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/MANI-KUMAR94/DSA/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@ About Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/MANI-KUMAR94/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/MANI-KUMAR94/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MANI-KUMAR94/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANI-KUMAR94/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MANI-KUMAR94/DSA/tree/master/0283-move-zeroes) |
@@ -59,6 +61,7 @@ About Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MANI-KUMAR94/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MANI-KUMAR94/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MANI-KUMAR94/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -78,4 +81,12 @@ About Leetcode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MANI-KUMAR94/DSA/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MANI-KUMAR94/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MANI-KUMAR94/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
