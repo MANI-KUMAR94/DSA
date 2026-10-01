@@ -19,6 +19,7 @@ About Leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANI-KUMAR94/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MANI-KUMAR94/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MANI-KUMAR94/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/MANI-KUMAR94/DSA/tree/master/0485-max-consecutive-ones) |
 ## Backtracking
 |  |
 | ------- |
