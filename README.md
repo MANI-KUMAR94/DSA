@@ -20,6 +20,7 @@ About Leetcode
 | [0169-majority-element](https://github.com/MANI-KUMAR94/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MANI-KUMAR94/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MANI-KUMAR94/DSA/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/MANI-KUMAR94/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MANI-KUMAR94/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -75,6 +76,7 @@ About Leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MANI-KUMAR94/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/MANI-KUMAR94/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MANI-KUMAR94/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
 |  |
@@ -95,9 +97,11 @@ About Leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/MANI-KUMAR94/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MANI-KUMAR94/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/MANI-KUMAR94/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MANI-KUMAR94/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
