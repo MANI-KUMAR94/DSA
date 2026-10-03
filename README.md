@@ -22,6 +22,7 @@ About Leetcode
 | [0283-move-zeroes](https://github.com/MANI-KUMAR94/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MANI-KUMAR94/DSA/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/MANI-KUMAR94/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/MANI-KUMAR94/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/MANI-KUMAR94/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -50,6 +51,7 @@ About Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MANI-KUMAR94/DSA/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/MANI-KUMAR94/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +60,7 @@ About Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MANI-KUMAR94/DSA/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/MANI-KUMAR94/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -101,6 +104,7 @@ About Leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MANI-KUMAR94/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/MANI-KUMAR94/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/MANI-KUMAR94/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/MANI-KUMAR94/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
